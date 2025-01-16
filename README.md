@@ -7,16 +7,35 @@
 
 <br>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bayrpm.Bayrpm&left_text=Visitantes"  />
+</div>
+
 ## 🌟 Sobre mí
 Soy un desarrollador de software apasionado por la tecnología, la programación y el aprendizaje constante. Me encanta trabajar en equipo y asumir nuevos retos. Actualmente, estoy enfocado en el area de Backend y en el desarrollo de aplicaciones moviles.
 
 - 🌍 Vivo en Chile CL.
-- 🚀 Actualmente aprendiendo React Native y profundizando mis conocimientos de Backend.
 - 🏆 Mi objetivo es convertirme en un desarrollador capaz de generar soluciones que ayuden a la comunidad y generen un impacto positivo.
 
+## ✨ Más sobre mí
+- 🎥 Soy aficionado a la creación de videos y animaciones, utilizando herramientas como After Effects y Adobe Photoshop.
+- 🎨 Disfruto del diseño UI/UX y creo interfaces en Figma.
+
+## 🚀 Actualmente aprendiendo
+- React Native para el desarrollo de aplicaciones móviles.
+- Node.js y Django para mejorar mis habilidades en Backend.
+- Bases de datos relacionales y no relacionales como PostgreSQL y Supabase/Firebase.
+
+---
+
+## 📫 Contáctame
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bayrpm.Bayrpm&left_text=Visitantes"  />
-</div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayron-ahumada-ief/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayronahumadaest2@gmail.com)
+
+<div/>
 
 <br>
 
@@ -58,6 +77,8 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
 
 <br>
 
