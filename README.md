@@ -1,6 +1,11 @@
-<h2 align="left">Sobre mí 💫</h2>
+# ¡Hola! Soy Bayron Ahumada! 👋
 
-<p align="left">🌟 Estoy buscando ganar experiencia a través de trabajos y proyectos personales. Me encanta trabajar en equipo y mejorar mis habilidades de comunicación y liderazgo. Actualmente, estoy enfocado en perfeccionar mis conocimientos en desarrollo Backend y en la creación de aplicaciones móviles.<br><br>🌍 Soy de Chile 🇨🇱, por lo que hablo español, pero también domino el inglés 🇬🇧. Un dato curioso sobre mí: aprendí inglés desde pequeño jugando videojuegos 🎮, de esta forma nació mi pasión por la tecnología.<br><br>🎨 En mi tiempo libre, disfruto crear videos y hacer animaciones, actividades que me permiten explorar mi lado creativo y aprender nuevas técnicas.</p>
+## 🌟 Sobre mí
+Soy un desarrollador de software apasionado por la tecnología, la programación y el aprendizaje constante. Me encanta trabajar en equipo y asumir nuevos retos. Actualmente, estoy enfocado en el area de Backend y en el desarrollo de aplicaciones moviles.
+
+- 🌍 Vivo en Chile CL.
+- 🚀 Actualmente aprendiendo React Native y profundizando mis conocimientos de Backend.
+- 🏆 Mi objetivo es convertirme en un desarrollador capaz de generar soluciones que ayuden a la comunidad y generen un impacto positivo.
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bayrpm.Bayrpm&left_text=Visitantes"  />
@@ -43,4 +48,25 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-b
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## Estadisticas de Github:
+<p align="center">
+    <a href="https://github.com/Bayrpm">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Bayrpm">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
+
+
+ <p align="center">
+   <a href="https://github.com/Bayrpm"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
