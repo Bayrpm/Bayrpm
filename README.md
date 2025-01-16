@@ -1,5 +1,12 @@
 # ¡Hola! Soy Bayron Ahumada! 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Desarrollador+Backend+y+apasionado+por+latecnologia,;Creando+soluciones+no+solo+codigo,;Aprender+construir+y+compartir"></a>
+</p>
+
+
+<br>
+
 ## 🌟 Sobre mí
 Soy un desarrollador de software apasionado por la tecnología, la programación y el aprendizaje constante. Me encanta trabajar en equipo y asumir nuevos retos. Actualmente, estoy enfocado en el area de Backend y en el desarrollo de aplicaciones moviles.
 
