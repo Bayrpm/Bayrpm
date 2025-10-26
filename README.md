@@ -1,104 +1,96 @@
-# ¡Hola! Soy Bayron Ahumada! 👋
+# ¡Hola! Soy Bayron Ahumada 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bayron+Ahumada+desarrollador+Backend;Creando+soluciones+no+solo+codigo;Aprender+construir+y+compartir;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=80&lines=Bayron+Ahumada+—+Backend+%26+Web+Engineer;Construyo+soluciones,+no+solo+código;Aprender,+construir+y+compartir.">
+  </a>
 </p>
 
-
-<br>
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bayrpm.Bayrpm&left_text=Visitantes"  />
+  
+<!-- Stack principal -->
+  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Bayrpm.Bayrpm&left_text=Visitantes" />
+
 </div>
 
+---
+
 ## 🌟 Sobre mí
-Soy un desarrollador de software apasionado por la tecnología, la programación y el aprendizaje constante. Me encanta trabajar en equipo y asumir nuevos retos. Actualmente, estoy enfocado en el area de Backend y en el desarrollo de aplicaciones moviles.
+Soy Ingeniero en Informática y construyo productos web/backend con **React**, **Next.js**, **Supabase**, **C#** y **.NET**.  
+Me importa que el software sea **simple de entender, seguro de operar y fácil de escalar**.
 
-- 🌍 Vivo en Chile CL.
-- 🏆 Mi objetivo es convertirme en un desarrollador capaz de generar soluciones que ayuden a la comunidad y generen un impacto positivo.
+**Cómo aporto**
+- APIs y servicios robustos, medibles y documentados.
+- CI/CD y estándares que reducen deuda técnica.
+- Colaboración directa, foco en resultados y responsabilidad técnica.
 
-## ✨ Más sobre mí
-- 🎥 Soy aficionado a la creación de videos y animaciones, utilizando herramientas como After Effects y Adobe Photoshop.
-- 🎨 Disfruto del diseño UI/UX y creo interfaces en Figma.
-
-## 🚀 Actualmente aprendiendo
-- React Native para el desarrollo de aplicaciones móviles.
-- Node.js y Django para mejorar mis habilidades en Backend.
-- Bases de datos relacionales y no relacionales como PostgreSQL y Supabase/Firebase.
+**Ahora mismo**
+- Profundizando en **patrones de React/Next.js** (rendering, caching, RSC), **Django** y **modelado de datos** (PostgreSQL/NoSQL).
 
 ---
 
 ## 📫 Contáctame
-
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayron-ahumada-ief/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayron-ahumada-ief/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayronahumadaest2@gmail.com)
 
-<div/>
-
-<br>
+</div>
 
 ---
 
-## 🌟 Habilidades Técnicas  
+## 🌟 Habilidades Técnicas
 
-<div align="center">
+### 📜 Lenguajes
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 📜 Lenguajes de Programación  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### 🔧 Frameworks y Librerías
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-2C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
----
-
-### 🔧 Frameworks y Librerías  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### ☁️ Plataformas y Bases de Datos  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### ☁️ Plataformas y Bases de Datos
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 🎨 Diseño y Creatividad  
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-<br>
-
-## Estadisticas de Github:
-<p align="center">
-    <a href="https://github.com/Bayrpm">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bayrpm&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bayrpm&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-
+## 📊 Estadísticas de GitHub
 <p align="center">
   <a href="https://github.com/Bayrpm">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Bayrpm&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
+    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bayrpm&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bayrpm&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
 </p>
 
-
- <p align="center">
-   <a href="https://github.com/Bayrpm"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayrpm&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
+<details>
+  <summary>Más métricas (opcional)</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Bayrpm">
+      <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Bayrpm&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&title_color=FDFD96&border_radius=20" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Bayrpm">
+      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayrpm&theme=onedark&hide_border=true" />
+    </a>
+  </p>
+</details>
