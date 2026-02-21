@@ -50,6 +50,7 @@ Además, estoy desarrollando y evolucionando un **sistema de gestión de inventa
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
 
 ---
 
@@ -57,7 +58,6 @@ Además, estoy desarrollando y evolucionando un **sistema de gestión de inventa
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ---
 
@@ -66,6 +66,7 @@ Además, estoy desarrollando y evolucionando un **sistema de gestión de inventa
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 ---
 
