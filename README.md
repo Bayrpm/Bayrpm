@@ -19,7 +19,7 @@ Actualmente trabajo en una **empresa de desarrollo de soluciones tecnológicas**
 
 Estos sistemas son utilizados por **municipalidades y SLEP (Servicios Locales de Educación Pública)**, donde la estabilidad, trazabilidad y consistencia de datos no son opcionales.
 
-Trabajo principalmente con **.NET / C#**, **PostgreSQL** y **React**, construyendo aplicaciones donde la arquitectura, el modelado de datos y la mantenibilidad son prioridad.
+Trabajo principalmente con **.NET / C#**, **SQL** y **React**, construyendo aplicaciones donde la arquitectura, el modelado de datos y la mantenibilidad son prioridad.
 
 Me interesa más el criterio técnico que las modas. Prefiero sistemas simples, bien pensados y que escalen correctamente antes que soluciones rápidas difíciles de sostener.
 
